@@ -23,10 +23,8 @@
 * Cloud Computing
 * Data Structures & Algorithms
 
-🌱 Currently Learning:
+🌱 Currently Learning
 
-* Spring Boot Microservices
-* System Design
 * AWS Cloud Architecture
 * Multi-Agent AI Systems
 
@@ -240,11 +238,9 @@ Personalized educational guidance platform.
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2027 Goals
 
 * Crack a Product-Based Company Internship
-* Master System Design
-* Reach 500+ LeetCode Problems
 * Build Production-Grade AI Systems
 * Contribute to Open Source
 
