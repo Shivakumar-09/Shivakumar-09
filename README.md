@@ -14,7 +14,6 @@
 
 🏫 Vardhaman College of Engineering
 
-📊 CGPA: 9.12
 
 💻 Passionate about:
 
