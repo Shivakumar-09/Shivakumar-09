@@ -123,27 +123,74 @@
 * Improved model accuracy through augmentation and preprocessing
 * Worked on real-world AI workflows
 
----
-
 ## 🚀 Featured Projects
 
 ### 🚗 FleetMind
 
-AI-at-the-Edge solution for Software Defined Vehicles (SDVs) enabling fleet managers to define vehicle behavior using natural language and simulate fleet operations in real time.
+**AI-at-the-Edge Platform for Software Defined Vehicles (SDVs)**
+
+FleetMind enables fleet managers to define vehicle behavior using natural language, automatically convert requirements into executable rules, and simulate fleet operations in real time.
+
+**Key Features**
+
+* Natural Language Rule Engine
+* Real-Time Fleet Simulation
+* Interactive Vehicle Tracking
+* AI-Powered Decision Support
+
+**Tech Stack:** Next.js • OpenAI API • Python • JavaScript • Leaflet.js
+
+---
 
 ### 🌱 GreenGuard AI
 
-Environmental intelligence platform for pollution monitoring, sustainability analytics, and environmental risk assessment.
+**Environmental Intelligence & Sustainability Platform**
+
+GreenGuard AI monitors environmental conditions, analyzes pollution trends, and provides sustainability insights for smarter decision-making.
+
+**Key Features**
+
+* Pollution Monitoring
+* Environmental Risk Assessment
+* Sustainability Analytics
+* AI-Based Insights
+
+**Tech Stack:** MERN Stack • OpenAI API • Cloud Technologies
+
+---
 
 ### 🗳 VoteWise AI
 
-AI-powered multilingual election assistance platform providing voter guidance and conversational support.
+**AI-Powered Election Assistance Platform**
+
+VoteWise AI provides multilingual voter guidance, election-related information, and conversational support to improve voter awareness and accessibility.
+
+**Key Features**
+
+* AI Chat Assistant
+* Multilingual Support
+* Election Information Hub
+* User-Friendly Interface
+
+**Tech Stack:** React • Node.js • PostgreSQL • OpenAI API
+
+---
 
 ### 🎓 AI Student Guide Hub
 
-Personalized educational guidance platform powered by AI.
+**Personalized Learning & Career Guidance Platform**
 
----
+An AI-powered platform that helps students create learning roadmaps, track progress, and receive personalized recommendations.
+
+**Key Features**
+
+* AI Study Roadmaps
+* Progress Tracking
+* Personalized Recommendations
+* Career Guidance Support
+
+**Tech Stack:** MERN Stack • PostgreSQL • OpenAI API
+
 
 ## 💻 Data Structures & Algorithms
 
