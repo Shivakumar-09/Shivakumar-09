@@ -36,16 +36,15 @@
 
 * Backend Development
 * Software Engineering
-* Distributed Systems
 * Cloud Computing
 * Artificial Intelligence
 
 ### Currently Learning
 
-* Spring Boot
-* System Design
 * AWS Cloud Architecture
 * Multi-Agent AI Systems
+* Spring Boot
+
 
 ---
 
