@@ -40,33 +40,30 @@
 
 ### 🔥 Areas of Interest
 
-* Java Backend Development
+* Backend Development
 * Software Engineering
 * Artificial Intelligence
 * Cloud Computing
-* Distributed Systems
 * Data Structures & Algorithms
 
 ### 🌱 Currently Learning
 
 * Spring Boot
 * AWS Cloud Architecture
-* System Design
 * Multi-Agent AI Systems
 
 ---
 
 ## 🔥 Current Focus
 
-🚗 Building FleetMind
-
-🌱 Enhancing GreenGuard AI
-
 ☁ Learning AWS Cloud
 
 📚 Solving DSA Daily
 
 🤖 Exploring Multi-Agent AI Systems
+
+
+
 
 ---
 
