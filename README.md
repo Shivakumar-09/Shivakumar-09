@@ -151,37 +151,38 @@ FleetMind enables fleet managers to define vehicle behavior using natural langua
 
 ---
 
-### 🌱 GreenGuard AI
-
-**Environmental Intelligence & Sustainability Platform**
-
-GreenGuard AI monitors environmental conditions, analyzes pollution trends, and provides sustainability insights for smarter decision-making.
-
-**Key Features**
-
-* Pollution Monitoring
-* Environmental Risk Assessment
-* Sustainability Analytics
-* AI-Based Insights
-
-**Tech Stack:** MERN Stack • OpenAI API • Cloud Technologies
-
----
-
-### 🗳 VoteWise AI
+### 🗳️ VoteWise AI
 
 **AI-Powered Election Assistance Platform**
 
-VoteWise AI provides multilingual voter guidance, election-related information, and conversational support to improve voter awareness and accessibility.
+Built a scalable multilingual platform that helps voters access election information and receive AI-powered guidance.
 
 **Key Features**
 
 * AI Chat Assistant
 * Multilingual Support
 * Election Information Hub
-* User-Friendly Interface
+* JWT Authentication
+* Real-Time User Interaction
 
-**Tech Stack:** React • Node.js • PostgreSQL • OpenAI API
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL • OpenAI API • JWT
+
+---
+
+### 🏥 Pharma Pulse AI
+
+**Intelligent Healthcare Platform**
+
+A cloud-native healthcare platform for document processing, semantic search, and intelligent medical information retrieval.
+
+**Key Features**
+
+* AWS-Based Document Processing
+* Semantic Search with LangChain
+* Secure REST APIs & RBAC
+* Scalable Cloud Architecture
+
+**Tech Stack:** AWS (EC2, Lambda, S3) • Node.js • Express.js • MongoDB • LangChain
 
 ---
 
@@ -189,16 +190,34 @@ VoteWise AI provides multilingual voter guidance, election-related information, 
 
 **Personalized Learning & Career Guidance Platform**
 
-An AI-powered platform that helps students create learning roadmaps, track progress, and receive personalized recommendations.
+An AI-powered platform that generates customized learning roadmaps and career recommendations for students.
 
 **Key Features**
 
 * AI Study Roadmaps
-* Progress Tracking
 * Personalized Recommendations
-* Career Guidance Support
+* Semantic Search
+* Learning Analytics Dashboard
 
-**Tech Stack:** MERN Stack • PostgreSQL • OpenAI API
+**Tech Stack:** MERN Stack • PostgreSQL • LangChain • OpenAI API • JWT • Vercel
+
+---
+
+### 🌱 Eco Sentinel AI
+
+**Environmental Intelligence Platform**
+
+A real-time environmental monitoring platform that analyzes pollution trends and provides sustainability insights.
+
+**Key Features**
+
+* AQI & Pollution Monitoring
+* Environmental Risk Assessment
+* AI-Generated Insights
+* Cloud-Based Analytics
+
+**Tech Stack:** MERN Stack • OpenAI API • AWS • Redis • CloudWatch
+
 
 
 ## 💻 Data Structures & Algorithms
