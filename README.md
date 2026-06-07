@@ -238,15 +238,14 @@ An AI-powered platform that helps students create learning roadmaps, track progr
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-09&layout=compact&theme=tokyonight" width="48%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-09&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivakumar-09&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=Shivakumar-09&theme=tokyonight"/>
 </p>
-
----
 
 ---
 
