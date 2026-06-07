@@ -202,11 +202,14 @@
 
 ## 📈 Contribution Activity
 
-## 🐍 Contribution Snake
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivakumar-09/Shivakumar-09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09&theme=tokyonight"/>
 </p>
+
 
 
 ---
