@@ -201,12 +201,6 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shivakumar-09&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
 ---
 
 ## 📈 Contribution Activity
@@ -222,14 +216,6 @@ Personalized educational guidance platform powered by AI.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09\&theme=tokyonight)
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shivakumar-09/Shivakumar-09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
 
 ---
 
