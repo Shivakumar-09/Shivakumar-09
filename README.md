@@ -258,14 +258,6 @@ An AI-powered platform that helps students create learning roadmaps, track progr
 
 ---
 
-## 📊 Detailed Analytics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09\&theme=tokyonight)
-
----
-
----
-
 ## 🎯 2027 Goals
 
 * Secure a Product-Based Company Internship
