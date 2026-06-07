@@ -1,47 +1,69 @@
-# 👋 Hi, I'm Banoth Shiva Kumar
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=250\&section=header\&text=Banoth%20Shiva%20Kumar\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Engineer%20|%20Java%20Backend%20Developer%20|%20AI%20and%20Cloud%20Enthusiast\&descAlignY=55)
 
-### Software Engineer | Java Backend Developer | AI Systems Builder
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivakumar-09&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# 👋 Welcome To My Profile
 
-<p align="center">
-  <a href="https://linkedin.com/in/shivakumarnayak">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Shivakumar-09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/shivakumarnayak">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;AI+Systems+Builder;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Applications;Passionate+About+Cloud+and+Artificial+Intelligence" />
+
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shivakumarnayak">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shivakumar-09">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shivakumarnayak">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
+
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Information Technology @ Vardhaman College of Engineering (2023–2027)
+🎓 B.Tech Information Technology (2027)
 
-💼 Former Full Stack & Backend Systems Intern at MassMutual
+🏫 Vardhaman College of Engineering
 
-☁️ Passionate about building scalable backend systems, cloud-native applications, and AI-powered software solutions.
+💡 Passionate about building scalable backend systems, AI-powered applications, and software solutions that solve real-world problems.
 
-### Interests
+### 🔥 Areas of Interest
 
 * Backend Development
 * Software Engineering
-* Distributed Systems
-* Cloud Computing
 * Artificial Intelligence
+* Cloud Computing
+* Data Structures & Algorithms
 
-### Currently Learning
+### 🌱 Currently Learning
 
 * Spring Boot
-* System Design
 * AWS Cloud Architecture
 * Multi-Agent AI Systems
+
+---
+
+## 🔥 Current Focus
+
+☁ Learning AWS Cloud
+
+📚 Solving DSA Daily
+
+🤖 Exploring Multi-Agent AI Systems
+
+
+
 
 ---
 
@@ -53,59 +75,72 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-### Backend
+### Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+### AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 
 ---
 
 ## 💼 Experience
 
 ### Full Stack & Backend Systems Intern | MassMutual
+📍 Jul 2025 – Oct 2025
 
-* Engineered and deployed scalable MERN-stack backend services on AWS EC2
-* Built secure REST APIs with JWT authentication and RBAC
-* Reduced API latency by 40% through Redis caching
-* Improved P99 latency by 35% using query optimization and connection pooling
-* Performed monitoring and debugging using AWS CloudWatch
-
-**Tech Stack:** AWS • Docker • Node.js • MongoDB • Redis • JWT
+* Engineered and deployed a scalable MERN-stack backend on AWS EC2 supporting 1,000+ concurrent users
+* Built secure REST APIs with JWT authentication, Redis caching, and role-based access control (RBAC)
+* Reduced API latency by 40% through Redis session caching and backend optimization
+* Improved P99 response latency by 35% using connection pooling and query optimization
+* Performed performance benchmarking, debugging, and monitoring using Postman, AWS CloudWatch, and server logs
+* Worked with AWS, Docker, MongoDB, Redis, Node.js, and Git in a production-like environment
 
 ### AI & Data Analytics Intern | AICTE
+📍 Apr 2025 – May 2025
 
-* Built image classification models using TensorFlow and ResNet50
-* Applied transfer learning and data augmentation techniques
-* Optimized model training and inference pipelines
-* Worked on real-world computer vision workflows
-
-**Tech Stack:** Python • TensorFlow • ResNet50 • CNN
-
----
+* Built image classification models using TensorFlow and ResNet50 transfer learning
+* Applied data augmentation and preprocessing techniques to improve model accuracy
+* Optimized model training pipelines and reduced convergence time through hyperparameter tuning
+* Benchmarked inference performance across CPU and GPU environments
+* Worked on real-world AI workflows involving deep learning and computer vision
 
 ## 🚀 Featured Projects
 
 ### 🚗 FleetMind
 
-AI-at-the-Edge Platform for Software Defined Vehicles (SDVs)
+**AI-at-the-Edge Platform for Software Defined Vehicles (SDVs)**
+
+FleetMind enables fleet managers to define vehicle behavior using natural language, automatically convert requirements into executable rules, and simulate fleet operations in real time.
+
+**Key Features**
 
 * Natural Language Rule Engine
 * Real-Time Fleet Simulation
@@ -116,93 +151,169 @@ AI-at-the-Edge Platform for Software Defined Vehicles (SDVs)
 
 ---
 
-### 🏥 Pharma Pulse AI
+### 🗳️ VoteWise AI
 
-Intelligent Healthcare Platform
+**AI-Powered Election Assistance Platform**
 
-* AWS-based document processing pipelines
-* Semantic search using LangChain
-* Secure REST APIs and RBAC
-* Scalable healthcare workflows
+Built a scalable multilingual platform that helps voters access election information and receive AI-powered guidance.
 
-**Tech Stack:** AWS • Node.js • MongoDB • LangChain
+**Key Features**
+
+* AI Chat Assistant
+* Multilingual Support
+* Election Information Hub
+* JWT Authentication
+* Real-Time User Interaction
+
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL • OpenAI API • JWT
 
 ---
 
-### 🗳️ VoteWise AI
+### 🏥 Pharma Pulse AI
 
-AI-Powered Election Assistance Platform
+**Intelligent Healthcare Platform**
 
-* Multilingual AI voter assistance
-* OpenAI-powered conversational interface
-* JWT Authentication
-* PostgreSQL-backed backend services
+A cloud-native healthcare platform for document processing, semantic search, and intelligent medical information retrieval.
 
-**Tech Stack:** React • Node.js • PostgreSQL • OpenAI API
+**Key Features**
+
+* AWS-Based Document Processing
+* Semantic Search with LangChain
+* Secure REST APIs & RBAC
+* Scalable Cloud Architecture
+
+**Tech Stack:** AWS (EC2, Lambda, S3) • Node.js • Express.js • MongoDB • LangChain
 
 ---
 
 ### 🎓 AI Student Guide Hub
 
-Personalized Learning & Career Guidance Platform
+**Personalized Learning & Career Guidance Platform**
 
-* RAG-based recommendation engine
-* Semantic search
-* Personalized study roadmaps
-* Learning analytics dashboard
+An AI-powered platform that generates customized learning roadmaps and career recommendations for students.
 
-**Tech Stack:** MERN Stack • PostgreSQL • LangChain • OpenAI API
+**Key Features**
+
+* AI Study Roadmaps
+* Personalized Recommendations
+* Semantic Search
+* Learning Analytics Dashboard
+
+**Tech Stack:** MERN Stack • PostgreSQL • LangChain • OpenAI API • JWT • Vercel
 
 ---
 
-## 🏅 Achievements
+### 🌱 Eco Sentinel AI
 
-* 🏆 Ranked #1 among 500+ participants in Database Management Competition
-* 🚀 Agentathon 2025 Participant (GDG Hyderabad)
-* ☁️ Google Cloud GenAI Exchange Hackathon Participant
-* 💻 Active LeetCode Problem Solver
-* 🌟 Open Source Contributor
+**Environmental Intelligence Platform**
+
+A real-time environmental monitoring platform that analyzes pollution trends and provides sustainability insights.
+
+**Key Features**
+
+* AQI & Pollution Monitoring
+* Environmental Risk Assessment
+* AI-Generated Insights
+* Cloud-Based Analytics
+
+**Tech Stack:** MERN Stack • OpenAI API • AWS • Redis • CloudWatch
+
+
+
+## 💻 Data Structures & Algorithms
+
+✅ Arrays
+
+✅ Strings
+
+✅ Linked Lists
+
+✅ Stacks & Queues
+
+✅ Trees
+
+✅ Graphs
+
+✅ Dynamic Programming
+
+✅ Recursion
+
+✅ Greedy Algorithms
 
 ---
 
 ## 🏆 Certifications
 
-* OCI Generative AI Professional
-* AWS Cloud Practitioner Essentials
+* Oracle Cloud Infrastructure Generative AI Professional
 * Programming in Java (NPTEL)
-* Python Essentials 1
-* AI & Data Analytics Internship (AICTE)
+* Oracle Database Foundations
+* AI & Data Analytics Virtual Internship (AICTE)
+
+---
+
+## 🏅 Achievements
+
+🏆 Agentathon 2025 Participant
+
+🚀 Google Cloud GenAI Exchange Hackathon Participant
+
+💻 Active Competitive Programmer
+
+📚 Consistent DSA Problem Solver
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shivakumar-09&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09&theme=tokyonight"/>
+
+</div>
+
+---
+
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-09&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shivakumar-09&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 2027 Goals
+
+* Secure a Product-Based Company Internship
+* Master Spring Boot & System Design
+* Build Production-Grade AI Systems
+* Contribute to Open Source
+* Solve 1000+ DSA Problems
+
+---
+
+## 🤝 Connect With Me
 
 📧 Email: [shivakumarnayak2005@gmail.com](mailto:shivakumarnayak2005@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/shivakumarnayak
+💼 LinkedIn: https://linkedin.com/in/shivakumarnayak
 
-💻 GitHub: github.com/Shivakumar-09
+💻 GitHub: https://github.com/Shivakumar-09
 
-🧩 LeetCode: leetcode.com/u/shivakumarnayak
+🧩 LeetCode: https://leetcode.com/u/shivakumarnayak
 
 ---
 
+<div align="center">
+
 ### ⚡ Code • Learn • Build • Repeat
 
-Building scalable software and intelligent systems that solve real-world problems.
+⭐ Building scalable software and intelligent systems that solve real-world problems.
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2575fc,100:6a11cb\&height=120\&section=footer)
