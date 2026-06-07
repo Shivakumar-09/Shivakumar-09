@@ -113,12 +113,24 @@
 
 ## 💼 Experience
 
-### AI & Data Analytics Intern | AICTE
+### Full Stack & Backend Systems Intern | MassMutual
+📍 Jul 2025 – Oct 2025
 
-* Built image classification models using TensorFlow
-* Applied transfer learning using ResNet50
-* Improved model accuracy through augmentation and preprocessing
-* Worked on real-world AI workflows
+* Engineered and deployed a scalable MERN-stack backend on AWS EC2 supporting 1,000+ concurrent users
+* Built secure REST APIs with JWT authentication, Redis caching, and role-based access control (RBAC)
+* Reduced API latency by 40% through Redis session caching and backend optimization
+* Improved P99 response latency by 35% using connection pooling and query optimization
+* Performed performance benchmarking, debugging, and monitoring using Postman, AWS CloudWatch, and server logs
+* Worked with AWS, Docker, MongoDB, Redis, Node.js, and Git in a production-like environment
+
+### AI & Data Analytics Intern | AICTE
+📍 Apr 2025 – May 2025
+
+* Built image classification models using TensorFlow and ResNet50 transfer learning
+* Applied data augmentation and preprocessing techniques to improve model accuracy
+* Optimized model training pipelines and reduced convergence time through hyperparameter tuning
+* Benchmarked inference performance across CPU and GPU environments
+* Worked on real-world AI workflows involving deep learning and computer vision
 
 ## 🚀 Featured Projects
 
