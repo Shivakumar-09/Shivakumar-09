@@ -6,11 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;AI+Systems+Builder;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Applications;Passionate+About+Cloud+and+Artificial+Intelligence" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Shivakumar-09&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-<br><br>
 
 <a href="https://linkedin.com/in/shivakumarnayak">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,8 +28,6 @@
 🎓 B.Tech Information Technology (2027)
 
 🏫 Vardhaman College of Engineering
-
-📊 CGPA: **9.12 / 10**
 
 💡 Passionate about building scalable backend systems, AI-powered applications, and software solutions that solve real-world problems.
 
