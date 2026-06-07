@@ -28,7 +28,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 B.Tech Information Technology (2027)
 
@@ -36,7 +36,7 @@
 
 📊 CGPA: **9.12 / 10**
 
-💡 Passionate about building scalable backend systems, AI-powered applications, and solving real-world problems.
+💡 Passionate about building scalable backend systems, AI-powered applications, and software solutions that solve real-world problems.
 
 ### 🔥 Areas of Interest
 
@@ -44,7 +44,7 @@
 * Software Engineering
 * Artificial Intelligence
 * Cloud Computing
-* System Design
+* Distributed Systems
 * Data Structures & Algorithms
 
 ### 🌱 Currently Learning
@@ -56,7 +56,7 @@
 
 ---
 
-# 🔥 Current Focus
+## 🔥 Current Focus
 
 🚗 Building FleetMind
 
@@ -70,80 +70,82 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
+### Languages
 
-Java • Python • JavaScript • SQL • C
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-## Backend
+### Backend Development
 
-Spring Boot • Node.js • Express.js • REST APIs • Maven
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-## Frontend
+### Frontend
 
-React • HTML • CSS • Bootstrap
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-## Databases
+### Databases
 
-MySQL • MongoDB • PostgreSQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-## Cloud & Tools
+### Cloud & Tools
 
-AWS • Git • GitHub • Postman
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-## AI & Machine Learning
+### AI & Machine Learning
 
-TensorFlow • OpenAI API • Prompt Engineering • CNN • ResNet50
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## AI & Data Analytics Intern | AICTE
+### AI & Data Analytics Intern | AICTE
 
 * Built image classification models using TensorFlow
-* Applied transfer learning with ResNet50
-* Improved model accuracy through preprocessing and augmentation
+* Applied transfer learning using ResNet50
+* Improved model accuracy through augmentation and preprocessing
 * Worked on real-world AI workflows
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚗 FleetMind
+### 🚗 FleetMind
 
 AI-at-the-Edge solution for Software Defined Vehicles (SDVs) enabling fleet managers to define vehicle behavior using natural language and simulate fleet operations in real time.
 
-**Tech:** Next.js • OpenAI API • Python • JavaScript
-
----
-
-## 🌱 GreenGuard AI
+### 🌱 GreenGuard AI
 
 Environmental intelligence platform for pollution monitoring, sustainability analytics, and environmental risk assessment.
 
-**Tech:** MERN • OpenAI • Cloud Technologies
-
----
-
-## 🗳 VoteWise AI
+### 🗳 VoteWise AI
 
 AI-powered multilingual election assistance platform providing voter guidance and conversational support.
 
-**Tech:** React • Node.js • PostgreSQL • OpenAI API
-
----
-
-## 🎓 AI Student Guide Hub
+### 🎓 AI Student Guide Hub
 
 Personalized educational guidance platform powered by AI.
 
-**Tech:** MERN • PostgreSQL • OpenAI API
-
 ---
 
-# 💻 Data Structures & Algorithms
+## 💻 Data Structures & Algorithms
 
 ✅ Arrays
 
@@ -165,7 +167,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 * Oracle Cloud Infrastructure Generative AI Professional
 * Programming in Java (NPTEL)
@@ -174,7 +176,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 🏅 Achievements
+## 🏅 Achievements
 
 🏆 Agentathon 2025 Participant
 
@@ -186,7 +188,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&theme=tokyonight" width="48%">
@@ -199,7 +201,15 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 📈 Contribution Activity
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shivakumar-09&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true"/>
@@ -207,25 +217,33 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 📊 Detailed Analytics
+## 📊 Detailed Analytics
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09&theme=tokyonight"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09\&theme=tokyonight)
 
 ---
 
-# 🎯 2027 Goals
+## 🐍 Contribution Snake
 
-* Secure a Software Engineering Internship
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shivakumar-09/Shivakumar-09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 🎯 2027 Goals
+
+* Secure a Product-Based Company Internship
 * Master Spring Boot & System Design
-* Build Production-Grade AI Applications
+* Build Production-Grade AI Systems
 * Contribute to Open Source
 * Solve 1000+ DSA Problems
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 📧 Email: [shivakumarnayak2005@gmail.com](mailto:shivakumarnayak2005@gmail.com)
 
