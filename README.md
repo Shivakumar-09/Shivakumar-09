@@ -21,10 +21,6 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
-  <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
 </div>
 
 
