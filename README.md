@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech Information Technology (2027)
 
@@ -44,7 +44,7 @@
 * Software Engineering
 * Artificial Intelligence
 * Cloud Computing
-* Distributed Systems
+* System Design
 * Data Structures & Algorithms
 
 ### 🌱 Currently Learning
@@ -56,7 +56,7 @@
 
 ---
 
-## 🔥 Current Focus
+# 🔥 Current Focus
 
 🚗 Building FleetMind
 
@@ -70,66 +70,80 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+## Languages
 
-`Java` `Python` `JavaScript` `SQL` `C`
+Java • Python • JavaScript • SQL • C
 
-### Backend
+## Backend
 
-`Spring Boot` `Node.js` `Express.js` `REST APIs` `Maven`
+Spring Boot • Node.js • Express.js • REST APIs • Maven
 
-### Frontend
+## Frontend
 
-`React` `HTML` `CSS` `Bootstrap`
+React • HTML • CSS • Bootstrap
 
-### Databases
+## Databases
 
-`MySQL` `MongoDB` `PostgreSQL`
+MySQL • MongoDB • PostgreSQL
 
-### Cloud & Tools
+## Cloud & Tools
 
-`AWS` `Git` `GitHub` `Postman`
+AWS • Git • GitHub • Postman
 
-### AI & Machine Learning
+## AI & Machine Learning
 
-`TensorFlow` `OpenAI API` `CNN` `ResNet50` `Prompt Engineering`
+TensorFlow • OpenAI API • Prompt Engineering • CNN • ResNet50
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### AI & Data Analytics Intern | AICTE
+## AI & Data Analytics Intern | AICTE
 
 * Built image classification models using TensorFlow
-* Applied transfer learning using ResNet50
+* Applied transfer learning with ResNet50
 * Improved model accuracy through preprocessing and augmentation
 * Worked on real-world AI workflows
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🚗 FleetMind
+## 🚗 FleetMind
 
 AI-at-the-Edge solution for Software Defined Vehicles (SDVs) enabling fleet managers to define vehicle behavior using natural language and simulate fleet operations in real time.
 
-### 🌱 GreenGuard AI
-
-Environmental intelligence platform for pollution monitoring, sustainability analytics, and environmental risk assessment.
-
-### 🗳 VoteWise AI
-
-AI-powered multilingual election assistance platform providing voter guidance and conversational support.
-
-### 🎓 AI Student Guide Hub
-
-Personalized educational guidance platform powered by AI.
+**Tech:** Next.js • OpenAI API • Python • JavaScript
 
 ---
 
-## 💻 Data Structures & Algorithms
+## 🌱 GreenGuard AI
+
+Environmental intelligence platform for pollution monitoring, sustainability analytics, and environmental risk assessment.
+
+**Tech:** MERN • OpenAI • Cloud Technologies
+
+---
+
+## 🗳 VoteWise AI
+
+AI-powered multilingual election assistance platform providing voter guidance and conversational support.
+
+**Tech:** React • Node.js • PostgreSQL • OpenAI API
+
+---
+
+## 🎓 AI Student Guide Hub
+
+Personalized educational guidance platform powered by AI.
+
+**Tech:** MERN • PostgreSQL • OpenAI API
+
+---
+
+# 💻 Data Structures & Algorithms
 
 ✅ Arrays
 
@@ -151,7 +165,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 * Oracle Cloud Infrastructure Generative AI Professional
 * Programming in Java (NPTEL)
@@ -160,7 +174,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-## 🏅 Achievements
+# 🏅 Achievements
 
 🏆 Agentathon 2025 Participant
 
@@ -172,7 +186,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&theme=tokyonight" width="48%">
@@ -185,7 +199,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true"/>
@@ -193,7 +207,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-## 📊 Detailed Analytics
+# 📊 Detailed Analytics
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09&theme=tokyonight"/>
@@ -201,7 +215,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-## 🎯 2027 Goals
+# 🎯 2027 Goals
 
 * Secure a Software Engineering Internship
 * Master Spring Boot & System Design
@@ -211,15 +225,15 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 📧 Email: [shivakumarnayak2005@gmail.com](mailto:shivakumarnayak2005@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/shivakumarnayak
+💼 LinkedIn: https://linkedin.com/in/shivakumarnayak
 
-💻 GitHub: github.com/Shivakumar-09
+💻 GitHub: https://github.com/Shivakumar-09
 
-🧩 LeetCode: leetcode.com/u/shivakumarnayak
+🧩 LeetCode: https://leetcode.com/u/shivakumarnayak
 
 ---
 
