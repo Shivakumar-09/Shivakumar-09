@@ -200,16 +200,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Contribution Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-09&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivakumar-09&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09&theme=tokyonight"/>
 </p>
+
 
 ---
 
