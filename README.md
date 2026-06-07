@@ -1,12 +1,10 @@
-![Banner](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=250\&section=header\&text=Banoth%20Shiva%20Kumar\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Engineer%20|%20Java%20Backend%20Developer%20|%20AI%20and%20Cloud%20Enthusiast\&descAlignY=55)
 
 <div align="center">
 
-# Hi 👋, I'm Banoth Shiva Kumar
+# 👋 Welcome To My Profile
 
-### Software Engineer | Java Backend Developer | AI & Cloud Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;AI+Systems+Builder;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Applications;Passionate+About+Cloud+and+Artificial+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;AI+Systems+Builder;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Applications;Passionate+About+Cloud+and+Artificial+Intelligence" />
 
 <br>
 
@@ -30,7 +28,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 B.Tech Information Technology (2027)
 
@@ -38,7 +36,7 @@
 
 📊 CGPA: **9.12 / 10**
 
-💡 I enjoy building backend systems, AI-powered applications, and software solutions that solve real-world problems.
+💡 Passionate about building scalable backend systems, AI-powered applications, and software solutions that solve real-world problems.
 
 ### 🔥 Areas of Interest
 
@@ -58,7 +56,7 @@
 
 ---
 
-# 🔥 Current Focus
+## 🔥 Current Focus
 
 🚗 Building FleetMind
 
@@ -72,9 +70,9 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -82,75 +80,72 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-## Backend
+### Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-## Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-## Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-## Cloud & Tools
+### Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-## AI & ML
+### AI & Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-success?style=for-the-badge)
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## AI & Data Analytics Intern | AICTE
+### AI & Data Analytics Intern | AICTE
 
 * Built image classification models using TensorFlow
 * Applied transfer learning using ResNet50
-* Performed image preprocessing and augmentation
-* Improved model accuracy through experimentation
-
-**Tech:** Python • TensorFlow • CNN • ResNet50
+* Improved model accuracy through augmentation and preprocessing
+* Worked on real-world AI workflows
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚗 FleetMind
+### 🚗 FleetMind
 
-AI-at-the-Edge solution for Software Defined Vehicles (SDVs) that enables fleet managers to define vehicle behavior using natural language and simulate fleet operations in real time.
+AI-at-the-Edge solution for Software Defined Vehicles (SDVs) enabling fleet managers to define vehicle behavior using natural language and simulate fleet operations in real time.
 
-## 🌱 GreenGuard AI
+### 🌱 GreenGuard AI
 
 Environmental intelligence platform for pollution monitoring, sustainability analytics, and environmental risk assessment.
 
-## 🗳 VoteWise AI
+### 🗳 VoteWise AI
 
 AI-powered multilingual election assistance platform providing voter guidance and conversational support.
 
-## 🎓 AI Student Guide Hub
+### 🎓 AI Student Guide Hub
 
 Personalized educational guidance platform powered by AI.
 
 ---
 
-# 💻 Data Structures & Algorithms
+## 💻 Data Structures & Algorithms
 
 ✅ Arrays
 
@@ -172,7 +167,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 * Oracle Cloud Infrastructure Generative AI Professional
 * Programming in Java (NPTEL)
@@ -181,7 +176,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 🏅 Achievements
+## 🏅 Achievements
 
 🏆 Agentathon 2025 Participant
 
@@ -193,19 +188,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 💻 Coding Profiles
-
-🧩 LeetCode
-
-⭐ HackerRank
-
-🍜 CodeChef
-
-💡 GeeksforGeeks
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&theme=tokyonight" width="48%">
@@ -218,7 +201,7 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Shivakumar-09&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -226,43 +209,43 @@ Personalized educational guidance platform powered by AI.
 
 ---
 
-# 📈 Detailed Analytics
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Detailed Analytics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09\&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivakumar-09\&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivakumar-09\&theme=tokyonight)
-
 ---
 
-# 📈 Contribution Activity
-
-[![Shiva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09\&bg_color=0d1117\&color=58a6ff\&line=1f6feb\&point=f85149\&area=true\&hide_border=true)](https://github.com/Shivakumar-09)
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Shivakumar-09/Shivakumar-09/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Shivakumar-09/Shivakumar-09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
 ---
 
-# 🎯 2027 Goals
+## 🎯 2027 Goals
 
-* Secure a Software Engineering Internship
+* Secure a Product-Based Company Internship
 * Master Spring Boot & System Design
-* Build Production-Grade AI Applications
+* Build Production-Grade AI Systems
 * Contribute to Open Source
 * Solve 1000+ DSA Problems
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
+
+📧 Email: [shivakumarnayak2005@gmail.com](mailto:shivakumarnayak2005@gmail.com)
 
 💼 LinkedIn: https://linkedin.com/in/shivakumarnayak
 
@@ -270,16 +253,14 @@ Personalized educational guidance platform powered by AI.
 
 🧩 LeetCode: https://leetcode.com/u/shivakumarnayak
 
-📧 Email: [shivakumarnayak2005@gmail.com](mailto:shivakumarnayak2005@gmail.com)
-
 ---
 
 <div align="center">
 
-### ⚡ Code. Learn. Build. Repeat.
+### ⚡ Code • Learn • Build • Repeat
 
-⭐ If you like my projects, consider starring them!
+⭐ Building scalable software and intelligent systems that solve real-world problems.
 
 </div>
 
-![Footer](https://raw.githubusercontent.com/Trilokia/Trilokia/master/bottom_header.svg)
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2575fc,100:6a11cb\&height=120\&section=footer)
