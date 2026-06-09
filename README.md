@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/shivakumarnayak">
+<a href="leetcode.com/u/shivakumar2005">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -221,7 +221,7 @@
 
 💻 GitHub: github.com/Shivakumar-09
 
-🧩 LeetCode: leetcode.com/u/shivakumarnayak
+🧩 LeetCode: leetcode.com/u/shivakumar2005
 
 ---
 
