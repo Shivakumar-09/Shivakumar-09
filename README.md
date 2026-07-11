@@ -1,236 +1,214 @@
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=250\&section=header\&text=Banoth%20Shiva%20Kumar\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Engineer%20|%20Java%20Backend%20Developer%20|%20AI%20and%20Cloud%20Enthusiast\&descAlignY=55)
 
-<div align="center">
+# 👋 Banoth Shiva Kumar
 
-# 👋 Welcome To My Profile
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=260&section=header&text=Banoth%20Shiva%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Java%20Backend%20Developer%20|%20AI%20Systems%20Builder&descAlignY=55"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;AI+Systems+Builder;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Applications;Passionate+About+Cloud+and+Artificial+Intelligence" />
+<table>
+<tr>
+<td width="34%" align="center">
 
-<br>
+<img src="images/profile.png" width="220"/>
 
-<a href="https://linkedin.com/in/shivakumarnayak">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://github.com/Shivakumar-09">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![](https://komarev.com/ghpvc/?username=Shivakumar-09&style=for-the-badge&color=blue)
 
-<a href="https://leetcode.com/u/shivakumar2005">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+</td>
 
-</div>
+<td>
+
+```text
+banoth@github
+────────────────────────────────────────
+
+Name      : Banoth Shiva Kumar
+Role      : Software Engineer
+College   : Vardhaman College of Engineering
+CGPA      : 9.16 / 10
+
+Languages : Java, Python, JavaScript, SQL, C++
+
+Backend   : Spring Boot, Node.js, Express
+
+Frontend  : React, HTML, CSS
+
+Database  : PostgreSQL, MongoDB, MySQL, Redis
+
+Cloud     : AWS, Docker
+
+Interests : AI • Backend • Cloud • System Design
+
+Status    : Building scalable applications...
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Java+Backend+Developer;AI+Systems+Builder;AWS+Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 B.Tech Information Technology @ Vardhaman College of Engineering (2023–2027)
-
-💼 Former Full Stack & Backend Systems Intern at MassMutual
-
-☁️ Passionate about building scalable backend systems, cloud-native applications, and AI-powered software solutions.
-
-### Interests
-
-* Backend Development
-* Software Engineering
-* Cloud Computing
-* Artificial Intelligence
-
-### Currently Learning
-
-* AWS Cloud Architecture
-* Multi-Agent AI Systems
-* Spring Boot
-
+- 🎓 B.Tech Information Technology (2023–2027)
+- 🎓 CGPA **9.16/10**
+- 💼 Former Full Stack & Backend Systems Intern at **MassMutual**
+- ☁️ Passionate about Backend Engineering, Cloud Computing and AI
+- 🌱 Currently learning Spring Boot, Kubernetes and System Design
+- 💻 Solving DSA regularly on LeetCode
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java,python,js,cpp,mysql)
 
-### Backend Development
+### Backend
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Backend](https://skillicons.dev/icons?i=spring,nodejs,express)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Frontend](https://skillicons.dev/icons?i=react,html,css,bootstrap)
 
-### Databases
+### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![DB](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql)
 
 ### Cloud & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman)
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Full Stack & Backend Systems Intern | MassMutual
+## Full Stack & Backend Systems Intern — MassMutual
 
-📅 Jul 2025 – Oct 2025
-
-* Engineered and deployed a scalable MERN-stack backend on AWS EC2 supporting 1,000+ concurrent users
-* Built secure REST APIs with JWT authentication, Redis caching, and RBAC
-* Reduced API latency by 40% through backend optimization
-* Improved P99 response latency by 35% using query optimization and connection pooling
-* Performed monitoring and debugging using AWS CloudWatch
-
-### AI & Data Analytics Intern | AICTE
-
-📅 Apr 2025 – May 2025
-
-* Built image classification models using TensorFlow and ResNet50
-* Applied transfer learning and data augmentation
-* Optimized model training and inference performance
-* Worked on real-world computer vision workflows
+- Built scalable MERN backend
+- Deployed on AWS EC2
+- JWT Authentication
+- Redis Caching
+- REST APIs
+- Optimized latency by 40%
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🚗 FleetMind
+## 🚗 FleetMind
+AI Platform for Software Defined Vehicles
 
-**AI-at-the-Edge Platform for Software Defined Vehicles (SDVs)**
-
-* Natural Language Rule Engine
-* Real-Time Fleet Simulation
-* Interactive Vehicle Tracking
-* AI-Powered Decision Support
-
-**Tech Stack:** Next.js • OpenAI API • Python • JavaScript • Leaflet.js
+**Stack:** Python • Next.js • OpenAI
 
 ---
 
-### 🏥 Pharma Pulse AI
+## 🏥 PharmaPulse AI
 
-**Intelligent Healthcare Platform**
+Healthcare AI Platform
 
-* AWS-based document processing pipelines
-* Semantic search using LangChain
-* Secure REST APIs and RBAC
-* Scalable healthcare workflows
-
-**Tech Stack:** AWS • Node.js • MongoDB • LangChain
+**Stack:** Node.js • AWS • MongoDB
 
 ---
 
-### 🗳️ VoteWise AI
+## 🎓 AI Student Guide Hub
 
-**AI-Powered Election Assistance Platform**
+Career Recommendation Platform
 
-* Multilingual AI voter assistance
-* OpenAI-powered conversational interface
-* JWT Authentication
-* PostgreSQL-backed backend services
-
-**Tech Stack:** React • Node.js • PostgreSQL • OpenAI API
+**Stack:** MERN • PostgreSQL • LangChain
 
 ---
 
-### 🎓 AI Student Guide Hub
+## 🗳 VoteWise AI
 
-**Personalized Learning & Career Guidance Platform**
+Election Assistance Platform
 
-* RAG-based recommendation engine
-* Semantic search
-* Personalized study roadmaps
-* Learning analytics dashboard
-
-**Tech Stack:** MERN Stack • PostgreSQL • LangChain • OpenAI API
+**Stack:** React • Node.js • PostgreSQL
 
 ---
 
-### 🌱 Eco Sentinel AI
+# 📊 GitHub Dashboard
 
-**Environmental Intelligence Platform**
+<p align="center">
 
-* Real-time environmental monitoring
-* AQI and pollution analytics
-* AI-generated environmental insights
-* AWS cloud deployment
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&theme=tokyonight"/>
 
-**Tech Stack:** MERN Stack • AWS • OpenAI API • Redis
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivakumar-09&theme=tokyonight"/>
 
----
+</p>
 
-## 🏅 Achievements
+<p align="center">
 
-* 🏆 Ranked #1 among 500+ participants in Database Management Competition
-* 🚀 Agentathon 2025 Participant
-* ☁️ Google Cloud GenAI Exchange Hackathon Participant
-* 💻 Active LeetCode Problem Solver
-* 🌟 Open Source Contributor
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-09&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🏆 Certifications
-
-* OCI Generative AI Professional
-* AWS Cloud Practitioner Essentials
-* Programming in Java (NPTEL)
-* Python Essentials 1
-* AI & Data Analytics Virtual Internship
-
----
-
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&theme=tokyo-night&hide_border=true"/>
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivakumar-09&theme=tokyonight"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shivakumar-09&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 </p>
 
+---
 
+# 🐍 Contribution Snake
+
+```markdown
+Create GitHub Action:
+
+https://github.com/Platane/snk
+```
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect
 
-📧 Email: [shivakumarnayak2005@gmail.com](mailto:shivakumarnayak2005@gmail.com)
+<p align="center">
 
-💼 LinkedIn: linkedin.com/in/shivakumarnayak
+<a href="https://github.com/Shivakumar-09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-💻 GitHub: github.com/Shivakumar-09
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🧩 LeetCode: leetcode.com/u/shivakumar2005
+<a href="https://leetcode.com/u/shivakumar2005/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⚡ Code • Learn • Build • Repeat
+> **"Code • Learn • Build • Repeat."**
 
-Building scalable software and intelligent systems that solve real-world problems.
+</p>
 
-</div>
+<p align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2575fc,100:6a11cb\&height=120\&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+
+</p>
+
